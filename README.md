@@ -2,20 +2,23 @@
 
 ## Demo Screenshots
 ***MetaMask Authentication***
-![demo2](https://github.com/ANMOLCODES/Rarible-NFT-LazyMinter/blob/master/1.png)
+![demo2](https://github.com/ANMOLCODES/Rarible-NFT-LazyMinter/blob/master/blob/1.png)
 
 
 ***Minter visible post Authentication via MetaMask***
-![demo3](https://github.com/ANMOLCODES/Rarible-NFT-LazyMinter/blob/master/2.png)
+![demo3](https://github.com/ANMOLCODES/Rarible-NFT-LazyMinter/blob/master/blob/2.png)
 
-***Campaign Details***
-![demo1](https://github.com/ANMOLCODES/CoinRaise/blob/master/screenshots/CampaignDetails.png)
+***Fill in NFT metadata as desired***
+![demo1](https://github.com/ANMOLCODES/Rarible-NFT-LazyMinter/blob/master/blob/3.png)
 
-***Create Request***
-![demo4](https://github.com/ANMOLCODES/CoinRaise/blob/master/screenshots/CreateRequest.png)
+***MetaMask Signature required pre-mint***
+![demo4](https://github.com/ANMOLCODES/Rarible-NFT-LazyMinter/blob/master/blob/4.png)
 
-***Requests***
-![demo5](https://github.com/ANMOLCODES/CoinRaise/blob/master/screenshots/RequestsTable.png)
+***Success message visible with a link to Rarible Marketplace***
+![demo5](https://github.com/ANMOLCODES/Rarible-NFT-LazyMinter/blob/master/blob/5.png)
+
+***NFT listed on Rarible ready to be put on Sale/Transfer***
+![demo5](https://github.com/ANMOLCODES/Rarible-NFT-LazyMinter/blob/master/blob/6.png)
 
 
 ## Installation
